@@ -9,6 +9,10 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
+    <label for="password resett"><b>Resett Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
@@ -38,7 +42,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-    <label for="password resett"><b>Password</b></label>
+    <label for="password resett"><b>Resett Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
