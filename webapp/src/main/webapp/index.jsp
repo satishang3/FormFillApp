@@ -9,11 +9,11 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-    <label for="password resett"><b>Resett Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <label for="name"><b>Father's Name</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-    <label for="email"><b>Email</b></label>
+   <label for="email"><b>Official mail</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
@@ -29,9 +29,10 @@
     <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
     <br>
 
-     <label for="DOB"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <label for="aadhar"><b>Mobile Number</b></label>
+    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
     <br>
+
 
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
@@ -42,9 +43,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-    <label for="password resett"><b>Resett Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
-
-
+   
 </form>
