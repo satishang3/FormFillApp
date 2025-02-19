@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
+    <label for="name"><b>Mother's Name</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <br>
+
    <label for="email"><b>Official mail</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
@@ -31,6 +35,10 @@
 
     <label for="aadhar"><b>Mobile Number</b></label>
     <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+    <br>
+
+    <label for="name"><b>Blood Group</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
 
