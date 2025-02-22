@@ -37,8 +37,8 @@
     <input type="text" placeholder="Enter Mobile Number" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="name"><b>Passport Number</b></label>
-    <input type="text" placeholder="Passport Number" name="name" id="name" required>
+    <label for="name"><b>Address</b></label>
+    <input type="text" placeholder="Address" name="name" id="name" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
