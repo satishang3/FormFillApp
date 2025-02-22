@@ -37,10 +37,6 @@
     <input type="text" placeholder="Enter Mobile Number" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="name"><b>Blood Group</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
-    <br>
-
     <label for="name"><b>Passport Number</b></label>
     <input type="text" placeholder="Passport Number" name="name" id="name" required>
     <br>
