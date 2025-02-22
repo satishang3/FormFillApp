@@ -34,7 +34,7 @@
     <br>
 
     <label for="aadhar"><b>Mobile Number</b></label>
-    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+    <input type="text" placeholder="Enter Mobile Number" name="aadhar" id="aadhar" required>
     <br>
 
     <label for="name"><b>Blood Group</b></label>
